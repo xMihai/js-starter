@@ -1,0 +1,12 @@
+{
+  "defaultSeverity": "error",
+  "extends": ["./tslint.json"],
+  "rules": {
+    "no-this": false,
+    "no-class": false,
+    "no-expression-statement": false,
+    "member-access": false,
+    "member-ordering": false,
+    "no-mixed-interface": false
+  }
+}
